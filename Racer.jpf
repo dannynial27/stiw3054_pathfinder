@@ -1,0 +1,2 @@
+target=Racer
+listener=gov.nasa.jpf.listener.PreciseRaceDetector
