@@ -1,2 +1,7 @@
 target=HelloWorld
-classpath=/Users/zhamri/Documents/JavaProjects/stiw3054_pathfinder/out/production/stiw3054_pathfinder
+
+# Path to the compiled class files
+classpath=C:/Users/dania/jpf-core/stiw3054_pathfinder/out/production/stiw3054_pathfinder
+
+# Path to the source files
+sourcepath=C:/Users/dania/jpf-core/stiw3054_pathfinder/src
